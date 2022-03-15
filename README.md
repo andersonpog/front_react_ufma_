@@ -1,4 +1,4 @@
-#Projeto para cadeira introdutória do Desenvolvimento de Sistemas Web em colaboração com:
+Projeto para cadeira introdutória do Desenvolvimento de Sistemas Web em colaboração com:
 https://github.com/welyab/vaccines-api
 
 # Executando o projeto
