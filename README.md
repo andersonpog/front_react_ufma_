@@ -12,7 +12,7 @@ https://github.com/welyab/vaccines-api
 
 Modificar a variável REACT_APP_SERVER_URL para apontar para um servidor de API diferente
 
-# Video de apresentação
+## Video de apresentação
 
 https://www.youtube.com/watch?v=057_Sh_oQ6w
 
